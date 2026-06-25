@@ -1,8 +1,8 @@
 # ProtoSpace 🚀
-** AI pipeline for exoplanet detection from noisy astronomical light curves.**
+**AI pipeline for exoplanet detection from noisy astronomical light curves.**
 
 Built for ISRO Bharatiya Antariksh Hackathon 2026 — Problem Statement PS-7  
-Team: Stellar Minds | Anna University, Chennai
+Team: Stellar Minds 
 
 ## What it does
 ProtoSpace detects exoplanet transits from raw, noisy photometry data (Kepler/TESS/AstroSat)
